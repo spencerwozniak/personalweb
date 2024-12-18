@@ -5,3 +5,7 @@
 ## Now with a fighting game at the bottom
 
 ![image](https://github.com/user-attachments/assets/4db79a9c-39c3-43b2-8a19-b6761dd6e430)
+
+## Airplane flies
+
+![image](https://github.com/user-attachments/assets/bf9c0079-43f4-4743-8e26-deee0988c242)
