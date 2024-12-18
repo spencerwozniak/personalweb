@@ -1,5 +1,3 @@
-https://htmlpreview.github.io/?https://github.com/spencerwozniak/personalweb/blob/main/index.html
-
 # Forked personalweb project
 
 ![image](https://github.com/user-attachments/assets/5673b200-da9f-4308-a185-4c17a2ffcc90)
