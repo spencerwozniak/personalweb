@@ -1,4 +1,4 @@
-https://htmlpreview.github.io/?
+https://htmlpreview.github.io/?https://github.com/spencerwozniak/personalweb/blob/main/index.html
 
 # Forked personalweb project
 
