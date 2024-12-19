@@ -63,32 +63,32 @@
             border-top: 3px solid #000;
         }
 
-		#airplane-container {
-			top: 0;
-			left: 0;
-			width: 100%;
-			height: 50px;
-			overflow: hidden;
-			z-index: 1000; /* Ensure it stays above other elements */
-			background-color: rgb(255, 255, 255); /* Optional: Sky background */
-		}
+	#airplane-container {
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 50px;
+		overflow: hidden;
+		z-index: 1000; /* Ensure it stays above other elements */
+		background-color: rgb(255, 255, 255); /* Optional: Sky background */
+	}
 
-		#airplane {
-			position: absolute;
-			top: 10px;
-			left: -30px; /* Start off-screen */
-			height: 30px; /* Resize as needed */
-			animation: flyAirplane 6s linear infinite; /* Animation settings */
-		}
+	#airplane {
+		position: absolute;
+		top: 10px;
+		left: -30px; /* Start off-screen */
+		height: 30px; /* Resize as needed */
+		animation: flyAirplane 6s linear infinite; /* Animation settings */
+	}
 
-		@keyframes flyAirplane {
-			0% {
-				left: -150px; /* Start far left */
-			}
-			100% {
-				left: 100%; /* End far right */
-			}
+	@keyframes flyAirplane {
+		0% {
+			left: -150px; /* Start far left */
 		}
+		100% {
+			left: 100%; /* End far right */
+		}
+	}
 
 
 
